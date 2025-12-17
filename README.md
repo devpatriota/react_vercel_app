@@ -43,34 +43,35 @@ O objetivo do projeto é aplicar conceitos fundamentais de **React**, como compo
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/react_vercel_app.git
-
+git clone https://github.com/devpatriota/react_vercel_app.git
+```
 2. Acesse a pasta do projeto:
 ```bash 
 cd react_vercel_app
+```
 
 3. Instale as dependências:
 ```bash
 npm install
-
+```
 4. Inicie o servidor de desenvolvimento:
 ```bash
 npm run dev
-
+```
 5. Acesse no navegador:
 http://localhost:5173
 
 ## 🖼️ Screenshots da Aplicação
 
 ### 🏠 Tela Inicial
-![Tela Inicial](./public/src/screenshots/home-page.png)
+![Tela Inicial](./src/screenshots/home-page.png)
 
 ### 📖 Tela de Detalhes
-![Tela de Detalhes](./public/src/screenshots/book-detail-page.png)
+![Tela de Detalhes](./src/screenshots/book-detail-page.png)
 
 ### ⭐ Tela de Favoritos
-![Tela de Favoritos](./public/src/screenshots/favorite-page.png)
+![Tela de Favoritos](./src/screenshots/favorite-page.png)
 
-## Este projeto foi desenvolvido como parte de uma atividade avaliativa da faculdade, com o objetivo de aplicar na prática os conhecimentos adquiridos durante o curso.
+Este projeto foi desenvolvido como parte de uma atividade avaliativa da faculdade, com o objetivo de aplicar na prática os conhecimentos adquiridos durante o curso.
 
-### Feito por João Patriota.
+#### feito por devpatriota.
